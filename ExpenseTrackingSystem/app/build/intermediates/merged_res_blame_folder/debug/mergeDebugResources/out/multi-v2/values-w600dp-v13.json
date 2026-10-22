@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.expensetrackingsystem.app-mergeDebugResources-46:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Laptop Supplier PH\\Downloads\\ExpenseTrackingSystem\\ExpenseTrackingSystem\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Laptop Supplier PH\\.gradle\\caches\\9.6.0\\transforms\\3a6a9ee9332259156244a35c8b7b5e0c\\transformed\\material-1.14.0\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,69",
+                        "endOffsets": "119,189"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,166",
+                        "endColumns": "68,69",
+                        "endOffsets": "161,231"
+                    }
+                }
+            ]
+        }
+    ]
+}

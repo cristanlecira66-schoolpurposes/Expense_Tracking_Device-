@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.KabuoanExpenseTrackingSystem" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/primary_green</item>
+        <item name="android:colorAccent">@color/primary_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/screen_background</item>
+        <item name="android:navigationBarColor">@color/screen_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.KabuoanExpenseTrackingSystem" parent="Base.Theme.KabuoanExpenseTrackingSystem" />
+</resources>
